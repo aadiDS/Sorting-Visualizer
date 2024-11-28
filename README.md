@@ -6,7 +6,6 @@ The **Sorting Visualizer** is a web application designed to help users understan
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Version Control**: Git
-- **Hosting**: Vercel
 
 ## ✨ Features
 
@@ -35,18 +34,3 @@ The Sorting Visualizer offers a practical way to understand sorting algorithms t
 Each algorithm is visually broken down into steps, helping you comprehend its working mechanism and efficiency. With a simple dropdown menu, you can easily switch between algorithms and test them with different inputs. The animations can be paused at any time, giving you full control to analyze each step carefully.
 
 The application also includes brief descriptions of the algorithms, making it an excellent learning tool for students, developers, and anyone interested in algorithm design.
-
-## 🌐 Hosting
-
-This application is hosted on **Vercel** for easy accessibility. Simply visit the link to start exploring sorting algorithms in an interactive way.
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sorting-visualizer.git
